@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react,javascript,gsap, html ,css and 3d models**
 
-- 📫 How to reach me **jakub.barszcz33@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
