@@ -1,4 +1,4 @@
-<img alt="imageprofile" src="https://github.com/Jakubba/profile/blob/main/profile.png">
+
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jakubba?tab=repositories](https://github.com/Jakubba?tab=repositories)
